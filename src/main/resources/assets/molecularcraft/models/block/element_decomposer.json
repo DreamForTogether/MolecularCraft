@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures":
+    {
+        "top": "molecularcraft:blocks/element_decomposer_top",
+        "front": "molecularcraft:blocks/element_decomposer_front_off",
+        "side": "molecularcraft:blocks/element_decomposer_side"
+    }
+}

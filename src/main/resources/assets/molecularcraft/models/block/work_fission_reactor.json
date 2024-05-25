@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures":
+    {
+        "top": "molecularcraft:blocks/fission_reactor_top",
+        "front": "molecularcraft:blocks/fission_reactor_front_off",
+        "side": "molecularcraft:blocks/fission_reactor_side"
+    }
+}

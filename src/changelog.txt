@@ -1,0 +1,15 @@
+=========
+
+2024/5/20: Creating new effect and corresponding potion in Minecraft.
+	Create new fluid block "Nuclear Contaminated Water"
+	Create new item "Bucket Nuclear Contaminated Water", the right click can place "Nuclear Contaminated Water" fluid block
+	New effect is call "Radition": reduce entity's max health by 0.5 per 5 minutes.
+	And new corresponding potion is call "Nuclear Contaminated Water": reduce entity's max health by 0.5 per 5 minutes
+
+	Reference:
+		url: "https://blog.csdn.net/Jay_fearless/article/details/124049197"
+		ChatGPT 4.0
+
+=========
+
+2024/5/22: Writing some comments: especially java doc

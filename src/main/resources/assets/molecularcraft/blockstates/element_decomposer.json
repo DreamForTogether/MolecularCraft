@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "facing=north": {"model": "molecularcraft:element_decomposer" },
+        "facing=south": {"model": "molecularcraft:element_decomposer", "y": 180},
+        "facing=west": {"model": "molecularcraft:element_decomposer", "y": 270},
+        "facing=east": {"model": "molecularcraft:element_decomposer", "y": 90}
+    }
+}

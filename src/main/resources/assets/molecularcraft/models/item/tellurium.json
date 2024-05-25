@@ -1,0 +1,13 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures":
+    {
+        "layer0": "molecularcraft:items/tellurium"
+    }
+}{
+    "parent": "minecraft:item/generated",
+    "textures":
+    {
+        "layer0": "molecularcraft:items/tellurium"
+    }
+}

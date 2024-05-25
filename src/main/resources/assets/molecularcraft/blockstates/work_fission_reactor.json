@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "facing=north": {"model": "molecularcraft:work_fission_reactor" },
+        "facing=south": {"model": "molecularcraft:work_fission_reactor", "y": 180},
+        "facing=west": {"model": "molecularcraft:work_fission_reactor", "y": 270},
+        "facing=east": {"model": "molecularcraft:work_fission_reactor", "y": 90}
+    }
+}

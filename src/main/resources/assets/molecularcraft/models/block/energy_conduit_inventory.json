@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_inventory",
+    "textures":
+	{
+        "texture": "molecularcraft:blocks/energy_conduit_side"
+    }
+}
